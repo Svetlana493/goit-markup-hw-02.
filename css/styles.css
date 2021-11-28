@@ -52,8 +52,7 @@ body {
 
 .current-page,
 .link:hover,
-.link:focus,
-.link-contact:focus {
+.link:focus {
     color: var(--accent);
 }
 
@@ -150,8 +149,9 @@ body {
     line-height: 1.71;
 }
 
-.link-street {
-    color: #ffffff;
+.link-street:hover,
+.link-street:focus {
+    color: var(--accent);
 }
 
 .link-contact:hover,
