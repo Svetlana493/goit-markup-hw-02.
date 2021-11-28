@@ -159,7 +159,6 @@ body {
 
 .link-contact:focus {
     color: var(--text-address-link);
-    color: var(--accent);
 }
 
 
