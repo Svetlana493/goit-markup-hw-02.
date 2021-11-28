@@ -157,10 +157,6 @@ body {
     color: var(--text-address-link);
 }
 
-.link-contact:hover {
-    color: var(--text-address-link);
-}
-
 
 /* Портфолио */
 
