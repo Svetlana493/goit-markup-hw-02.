@@ -154,7 +154,7 @@ body {
     color: #ffffff;
 }
 
-.link-contact {
+.link-contact:focus {
     color: var(--accent);
 }
 
