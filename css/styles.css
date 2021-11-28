@@ -43,7 +43,8 @@ body {
 
 /* Навигация сайта */
 
-.link {
+.link,
+.link-contact {
     font-weight: 500;
     line-height: 1.14;
     letter-spacing: 0.02em;
@@ -52,8 +53,7 @@ body {
 
 .current-page,
 .link:hover,
-.link:focus,
-.link-contact:focus {
+.link:focus {
     color: var(--accent);
 }
 
