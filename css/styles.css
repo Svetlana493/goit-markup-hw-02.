@@ -154,7 +154,8 @@ body {
     color: #ffffff;
 }
 
-.link-contact:hover {
+.link-contact:hover,
+.link-contact:focus {
     color: var(--accent);
 }
 
