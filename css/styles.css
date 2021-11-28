@@ -57,7 +57,7 @@ body {
 }
 
 .link-contact:focus {
-    color: var(--accent);
+    color: #2196f3;
 }
 
 .contact {
