@@ -152,8 +152,7 @@ body {
     color: #ffffff;
 }
 
-.link-contact:hover,
-.link-contact:focus {
+.link-contact:hover {
     background-color: var(--bg-color-second);
     color: var(--text-address-link);
 }
