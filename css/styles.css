@@ -152,7 +152,8 @@ body {
     color: #ffffff;
 }
 
-.link-contact {
+.link-contact:focus {
+    background-color: var(--bg-color-second);
     color: var(--text-address-link);
 }
 
