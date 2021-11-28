@@ -157,6 +157,7 @@ body {
     color: var(--text-address-link);
 }
 
+.link-contact:hover,
 .link-contact:focus {
     color: var(--text-address-link);
 }
