@@ -152,8 +152,7 @@ body {
     color: #ffffff;
 }
 
-.link-contact:hover {
-    background-color: var(--bg-color-second);
+.link-contact {
     color: var(--text-address-link);
 }
 
@@ -168,6 +167,7 @@ body {
     color: var(--title-color);
 }
 
+.link-contact,
 .current-filter,
 .btn-filter:hover,
 .btn-filter:focus {
