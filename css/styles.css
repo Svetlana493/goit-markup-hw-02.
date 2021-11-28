@@ -155,7 +155,7 @@ body {
 }
 
 .link-contact {
-    color: white;
+    color: var(--text-address-link);
 }
 
 .link-contact:focus {
