@@ -54,6 +54,7 @@ body {
 .link:hover,
 .link:focus {
     color: var(--accent);
+    background-color: var(--bg-color-second);
 }
 
 .contact {
