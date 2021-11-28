@@ -52,7 +52,8 @@ body {
 
 .current-page,
 .link:hover,
-.link:focus {
+.link:focus,
+.link-contact:focus {
     color: var(--accent);
 }
 
@@ -186,6 +187,3 @@ body {
     line-height: 1.87;
     color: var(--text-color);
 }
-
-© 2021 GitHub,
-Inc. Terms Privacy Security
