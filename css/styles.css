@@ -57,6 +57,7 @@ body {
 }
 
 .contact {
+    color: var(--text-address-link);
     color: var(--text-color);
 }
 
