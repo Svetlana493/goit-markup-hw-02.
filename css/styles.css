@@ -53,7 +53,7 @@ body {
 .current-page,
 .link:hover,
 .link:focus,
-.link-contact:focus {
+.link-contact:hover {
     color: var(--accent);
 }
 
