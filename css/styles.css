@@ -146,6 +146,7 @@ body {
 }
 
 .address {
+    color: var(--accent);
     line-height: 1.71;
 }
 
